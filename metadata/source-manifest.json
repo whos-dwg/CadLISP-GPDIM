@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/GPDIM.lsp",
+      "bytes": 22046,
+      "sha256": "2d61a024287de09070bcb20e170221c107aedf0b4c0b9a469d8b78ff195a19fb",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "GPDIM",
+          "line": 1
+        }
+      ]
+    }
+  ]
+}
